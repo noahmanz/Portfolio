@@ -1,6 +1,6 @@
-# Read Me
+# Hello and welcome to my portfolio!
  
-Hi there and welcome to my portfolio! My name is Noah Manz, and I am a first year medical student at the University of Vermont. I hold a B.S. and M.S. in Materials and Metallurgical Engineering from the New Mexico Institute of Mining and Technology, having graduated in 2021 and 2022 respectivley. I have a very strong applied math background, and have started a data science/data analytics side hustle to help small businesses use their data to make smarter business decisions. Click on any of the above files to view some of my written, Photoshop and programming work!
+My name is Noah Manz, and I am a first year medical student at the University of Vermont. I hold a B.S. and M.S. in Materials and Metallurgical Engineering from the New Mexico Institute of Mining and Technology, having graduated in 2021 and 2022 respectivley. I have a very strong applied math background, and have started a data science/data analytics side hustle to help small businesses use their data to make smarter business decisions. Click on any of the above files to view some of my written, Photoshop and programming work!
 
 If these services aren’t relevant for your business, but you know someone who might be interested, I would appreciate if you could forward this portfolio to them. Above you will find an electronic copy of my marketing flyer available for download.
 
